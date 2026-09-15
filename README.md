@@ -15,7 +15,7 @@ Este repositório foi criado para a exposição de uma página HTML promovendo u
 
 ## 👁️‍🗨️ Preview do projeto 
 
-<img width="486" height="595" alt="image" src="https://github.com/user-attachments/assets/85f5fe7a-7493-412b-ba60-50a6e2025289" />
+<img width="586" height="595" alt="image" src="https://github.com/user-attachments/assets/85f5fe7a-7493-412b-ba60-50a6e2025289" />
 
 ---
 
